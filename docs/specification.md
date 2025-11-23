@@ -63,7 +63,7 @@ ANDH-FlowLang supports basic data types expressed naturally:
 - **Numbers**: `10`, `3.14`, `negative 5`
 - **Text**: `"hello world"`, `'single quotes'`
 - **Boolean**: `true`, `false`, `yes`, `no`
-- **Collections**: `list of [1, 2, 3]`, `set of items`
+- **Collections**: `list of [1, 2, 3]`, `set of items`, `dictionary of {key: value}`, `empty dictionary`
 
 ### 6. Operations
 
