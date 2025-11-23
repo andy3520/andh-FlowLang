@@ -1,0 +1,49 @@
+# Data Processing Example
+# Demonstrates filtering and transformation operations
+
+# Sample data: list of student records
+Define students as list of [
+    {"name": "Alice", "score": 85, "grade": "B"},
+    {"name": "Bob", "score": 92, "grade": "A"},
+    {"name": "Charlie", "score": 78, "grade": "C"},
+    {"name": "Diana", "score": 95, "grade": "A"},
+    {"name": "Eve", "score": 88, "grade": "B"}
+]
+
+Output "Processing student data..."
+
+# Filter students with score above 90
+Define high_achievers as empty list
+
+For each student in students:
+    If student's score is greater than 90:
+        Append student to high_achievers
+
+Output "High achievers (score > 90):"
+For each student in high_achievers:
+    Output student's name "scored" student's score
+
+# Calculate average score
+Define total_score as 0
+Define student_count as length of students
+
+For each student in students:
+    Add student's score to total_score
+
+Define average as total_score divided by student_count
+Output "Class average:" average
+
+# Count by grade
+Define grade_counts as empty dictionary
+Define grades as list of ["A", "B", "C"]
+
+For each grade in grades:
+    Set grade_counts at grade to 0
+
+For each student in students:
+    Define current_grade as student's grade
+    Increment grade_counts at current_grade by 1
+
+Output "Grade distribution:"
+For each grade in grades:
+    Output "Grade" grade ":" grade_counts at grade "students"

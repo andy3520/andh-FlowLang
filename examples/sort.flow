@@ -1,0 +1,25 @@
+# Bubble Sort Implementation
+# Demonstrates sorting algorithm in ANDH-FlowLang
+
+Define function bubble_sort with parameter items:
+    Define n as length of items
+    
+    # Outer loop for passes
+    For i from 0 to (n minus 2):
+        # Inner loop for comparisons
+        For j from 0 to (n minus i minus 2):
+            # Compare adjacent elements
+            If items at position j is greater than items at position (j plus 1):
+                # Swap elements
+                Define temp as items at position j
+                Set items at position j to items at position (j plus 1)
+                Set items at position (j plus 1) to temp
+    
+    Return items
+
+# Example usage
+Define unsorted_list as list of [64, 34, 25, 12, 22, 11, 90]
+Output "Original list:" unsorted_list
+
+Define sorted_list as bubble_sort of unsorted_list
+Output "Sorted list:" sorted_list
