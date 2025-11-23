@@ -1,6 +1,6 @@
-# FlowLang Source Code
+# ANDH-FlowLang Source Code
 
-This directory will contain the implementation of FlowLang interpreters, parsers, and tools.
+This directory will contain the implementation of ANDH-FlowLang interpreters, parsers, and tools.
 
 ## Planned Components
 

@@ -1,10 +1,10 @@
-# FlowLang Documentation
+# ANDH-FlowLang Documentation
 
-Welcome to the FlowLang documentation!
+Welcome to the ANDH-FlowLang documentation!
 
-## What is FlowLang?
+## What is ANDH-FlowLang?
 
-FlowLang is a lightweight, structured natural-language dialect designed to bridge human reasoning and AI execution. It provides a way to express computational logic and workflows in a format that is both human-readable and machine-processable.
+ANDH-FlowLang is a lightweight, structured natural-language dialect designed to bridge human reasoning and AI execution. It provides a way to express computational logic and workflows in a format that is both human-readable and machine-processable.
 
 ## Key Features
 
@@ -23,12 +23,12 @@ Check out the [Examples](../examples/) directory for sample programs.
 ## Documentation Structure
 
 - **[Specification](specification.md)** - Complete language specification
-- **[Examples](../examples/)** - Example FlowLang programs
+- **[Examples](../examples/)** - Example ANDH-FlowLang programs
 - **[Tutorial](tutorial.md)** - Step-by-step guide (coming soon)
 
 ## Use Cases
 
-FlowLang is ideal for:
+ANDH-FlowLang is ideal for:
 
 - Expressing computational workflows in natural language
 - Creating AI-interpretable task descriptions
@@ -38,4 +38,4 @@ FlowLang is ideal for:
 
 ## Community
 
-See [CONTRIBUTING.md](../CONTRIBUTING.md) for how to contribute to FlowLang.
+See [CONTRIBUTING.md](../CONTRIBUTING.md) for how to contribute to ANDH-FlowLang.

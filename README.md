@@ -1,10 +1,10 @@
-# FlowLang
+# ANDH-FlowLang
 
-FlowLang — a lightweight, structured natural-language dialect designed to bridge human reasoning and AI execution.
+ANDH-FlowLang — a lightweight, structured natural-language dialect designed to bridge human reasoning and AI execution.
 
 ## Overview
 
-FlowLang enables you to express computational logic and workflows in a format that is both human-readable and machine-processable. It combines the clarity of natural language with the precision needed for AI interpretation and execution.
+ANDH-FlowLang enables you to express computational logic and workflows in a format that is both human-readable and machine-processable. It combines the clarity of natural language with the precision needed for AI interpretation and execution.
 
 ## Features
 
@@ -44,7 +44,7 @@ Output "Factorial of 5 is" factorial of 5
 ```
 andh-FlowLang/
 ├── docs/              # Documentation and specifications
-├── examples/          # Example FlowLang programs
+├── examples/          # Example ANDH-FlowLang programs
 ├── src/               # Implementation (parsers, interpreters, tools)
 ├── tests/             # Test suite
 ├── LICENSE            # MIT License
@@ -54,7 +54,7 @@ andh-FlowLang/
 
 ## Use Cases
 
-FlowLang is ideal for:
+ANDH-FlowLang is ideal for:
 
 - Expressing computational workflows in natural language
 - Creating AI-interpretable task descriptions
@@ -64,7 +64,7 @@ FlowLang is ideal for:
 
 ## Development Status
 
-🚧 **Early Development** - FlowLang is in its initial stages. The language specification is being defined, and core tools are being planned.
+🚧 **Early Development** - ANDH-FlowLang is in its initial stages. The language specification is being defined, and core tools are being planned.
 
 ## Contributing
 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-FlowLang is designed to make computational thinking more accessible and to facilitate better human-AI collaboration.
+ANDH-FlowLang is designed to make computational thinking more accessible and to facilitate better human-AI collaboration.

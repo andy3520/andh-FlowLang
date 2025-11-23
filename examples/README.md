@@ -1,6 +1,6 @@
-# FlowLang Examples
+# ANDH-FlowLang Examples
 
-This directory contains example programs written in FlowLang to demonstrate the language's capabilities.
+This directory contains example programs written in ANDH-FlowLang to demonstrate the language's capabilities.
 
 ## Examples
 
@@ -11,6 +11,6 @@ This directory contains example programs written in FlowLang to demonstrate the 
 
 ## Running Examples
 
-These examples are currently reference implementations showing FlowLang syntax. 
+These examples are currently reference implementations showing ANDH-FlowLang syntax. 
 
 As interpreters and tools are developed, this README will be updated with execution instructions.

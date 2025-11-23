@@ -1,10 +1,10 @@
-# FlowLang Specification
+# ANDH-FlowLang Specification
 
 Version: 0.1.0 (Draft)
 
 ## Overview
 
-FlowLang is a structured natural-language dialect that enables expressing computational logic in a human-readable format while maintaining machine interpretability.
+ANDH-FlowLang is a structured natural-language dialect that enables expressing computational logic in a human-readable format while maintaining machine interpretability.
 
 ## Design Principles
 
@@ -17,7 +17,7 @@ FlowLang is a structured natural-language dialect that enables expressing comput
 
 ### 1. Statements
 
-FlowLang uses declarative statements to express computations and control flow:
+ANDH-FlowLang uses declarative statements to express computations and control flow:
 
 ```
 Define variable X as 10
@@ -58,7 +58,7 @@ Define function calculate_sum with parameters A and B:
 
 ### 5. Data Types
 
-FlowLang supports basic data types expressed naturally:
+ANDH-FlowLang supports basic data types expressed naturally:
 
 - **Numbers**: `10`, `3.14`, `negative 5`
 - **Text**: `"hello world"`, `'single quotes'`
@@ -109,11 +109,11 @@ If not guessed:
 
 ## Language Evolution
 
-This specification is a living document. FlowLang is designed to evolve based on practical usage and community feedback.
+This specification is a living document. ANDH-FlowLang is designed to evolve based on practical usage and community feedback.
 
 ## Implementation Notes
 
-Interpreters and transpilers for FlowLang should:
+Interpreters and transpilers for ANDH-FlowLang should:
 
 1. Be tolerant of minor syntax variations
 2. Provide clear error messages in natural language

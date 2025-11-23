@@ -1,6 +1,6 @@
-# FlowLang Tests
+# ANDH-FlowLang Tests
 
-This directory will contain tests for the FlowLang implementation.
+This directory will contain tests for the ANDH-FlowLang implementation.
 
 ## Test Categories
 

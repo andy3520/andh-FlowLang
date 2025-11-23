@@ -1,5 +1,5 @@
 # Bubble Sort Implementation
-# Demonstrates sorting algorithm in FlowLang
+# Demonstrates sorting algorithm in ANDH-FlowLang
 
 Define function bubble_sort with parameter items:
     Define n as length of items

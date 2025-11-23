@@ -1,6 +1,6 @@
-# Contributing to FlowLang
+# Contributing to ANDH-FlowLang
 
-Thank you for your interest in contributing to FlowLang! We welcome contributions from the community.
+Thank you for your interest in contributing to ANDH-FlowLang! We welcome contributions from the community.
 
 ## Getting Started
 
