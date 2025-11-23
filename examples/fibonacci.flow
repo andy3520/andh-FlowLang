@@ -1,0 +1,18 @@
+# Fibonacci Sequence Calculator
+# Calculates the first N Fibonacci numbers
+
+Define function fibonacci with parameter n:
+    # Base cases
+    If n is less than or equal to 1:
+        Return n
+    
+    # Recursive case
+    Return fibonacci of (n minus 1) plus fibonacci of (n minus 2)
+
+# Main program
+Define count as 10
+Output "Calculating first" count "Fibonacci numbers:"
+
+For i from 0 to count:
+    Define fib_number as fibonacci of i
+    Output "Fibonacci(" i ") =" fib_number
